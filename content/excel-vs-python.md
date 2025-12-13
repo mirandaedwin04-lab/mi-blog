@@ -1,3 +1,9 @@
+Tittle: Tablas
+Date: 11/12/2025
+Category:Tablas
+Tags: Excel, Python
+Autor: Edwin Miranda
+
 ## Comparativa de Herramientas
 
 | Característica | Excel 📗 | Python 🐍 |

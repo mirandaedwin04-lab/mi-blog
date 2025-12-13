@@ -21,4 +21,4 @@ Al principio tuve vaios errores. El mas dificil fue el **Error 127** en Netlify.
 Tuve que cambiar el comando de contruccion a ```python -m pelican content``` para obligar al sistema a encontrar la libreria.
 
 ¡Ahora mi blog es visible en todo el mundo!
-![Descripción de la foto](images/mifoto.jpg)
+![Descripción de la foto](/images/mifoto.jpg)
