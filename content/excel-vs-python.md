@@ -19,9 +19,11 @@ Aquí te muestro mi primera tabla comparativa entre la herramienta clásica y la
 
 Así es como se ve una suma en Excel:
 
-```excel
+```markdown
+excel
 =SUMA(A1:A10)
-
+```
+```python 
 import pandas as pd
 
 datos = [1, 2, 3, 4, 5]
