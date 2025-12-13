@@ -20,9 +20,13 @@ Así es como se ve una suma en Excel:
 ```excel
 =SUMA(A1:A10)
 
+
+
 import pandas as pd
 
 datos = [1, 2, 3, 4, 5]
 total = sum(datos)
 
 print(f"El total es: {total}")
+
+
