@@ -1,6 +1,10 @@
 Title: Dia 1: Dominando la Terminal y la Nube
 Date:  2025-12-12 19:40
 Categoria: Diario
+Tags: Python, Pelican, Perfil
+Slug: Mi foto genial
+Autor: Edwin Miranda
+
 
 Hoy comence mi camino creando mi propio blog profesional. No fue facil, pero aprendi mucho sobre como funcionan las páginas web por detrás.
 
