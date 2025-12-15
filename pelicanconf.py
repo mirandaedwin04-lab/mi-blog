@@ -1,12 +1,12 @@
 AUTHOR = 'Edwin Miranda'
 SITENAME = 'Mi blog'
 SITEURL = ""
-
+TIMEZONE = 'America/Guatemala'
+DEFAULT_LANG = 'es'
 PATH = "content"
 
-TIMEZONE = 'America/Guatemala'
 
-DEFAULT_LANG = 'es'
+
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -20,7 +20,6 @@ LINKS = (
     ("Pelican", "https://getpelican.com/"),
     ("Python.org", "https://www.python.org/"),
     ("Jinja2", "https://palletsprojects.com/p/jinja/"),
-    ("You can modify those links in your config file", "#"),
 )
 
 # Social widget
@@ -40,3 +39,11 @@ SITETITLE = 'Edwin Miranda'
 SITESUBTITLE = 'Business Intelligence & Automation'
 SITEDESCRIPTION = 'Blog de aprendizaje sobre Datos, Python y Automatización.'
 SITELOGO = '/images/mifoto.jpg'
+# Redes Sociales
+SOCIAL = (
+    ('linkedin', 'https://www.linkedin.com/in/edwin-miranda-763850103/'),
+    ('github', 'https://github.com/mirandaedwin04-lab'),
+    ('envelope', 'mailto:mirandaedwin04@gmail.com'),
+)
+Main_MENU = True
+
