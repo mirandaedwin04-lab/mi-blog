@@ -34,3 +34,9 @@ DEFAULT_PAGINATION = 5
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 STATIC_PATHS = ['images']
+# Configuración del Tema
+THEME = 'themes/Flex'
+SITETITLE = 'Edwin Miranda'
+SITESUBTITLE = 'Business Intelligence & Automation'
+SITEDESCRIPTION = 'Blog de aprendizaje sobre Datos, Python y Automatización.'
+SITELOGO = '/images/mifoto.jpg'
