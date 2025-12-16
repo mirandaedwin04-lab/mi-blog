@@ -12,5 +12,5 @@ print(f"Creando commit: '{mensaje}'...")
 os.system(f'git commit -m "{mensaje}"')
 
 print("Subiendo a la nube...")
-os.system("git pusH")
+os.system("git push")
 print("¡Hecho!")
