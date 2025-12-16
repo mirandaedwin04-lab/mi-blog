@@ -1,5 +1,5 @@
 Title: Excel vs Python
-Date: 2025-12-13 10:00
+Date: 2025-12-13 21:00
 Category: Tablas
 Tags: aprendizaje, datos, codigo
 Slug: excel-vs-python

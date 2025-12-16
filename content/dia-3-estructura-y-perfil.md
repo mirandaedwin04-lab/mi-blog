@@ -1,5 +1,5 @@
 Title: Día 3: Estructura de Navegación y Perfil Profesional
-Date: 2025-12-15 20:00
+Date: 2025-12-15 10:00
 Category: Diario
 Tags: pelican, python, estructura, paginas
 Slug: dia-3-estructura-perfil
